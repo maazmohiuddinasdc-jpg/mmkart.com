@@ -1,0 +1,6 @@
+{
+  "name": "MMKART.COM - Premium Branded Electronics",
+  "description": "Shop genuine branded smartphones, laptops, smartwatches, TVs, headphones and accessories from Apple, Samsung, Sony, HP and more on MMKART.COM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
